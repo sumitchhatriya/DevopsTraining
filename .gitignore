@@ -1,4 +1,4 @@
-.force.json
+force.json
 /.vscode
 /.sfdx
-.sfdx-project.json
+sfdx-project.json
